@@ -122,11 +122,11 @@ Steps in the order I did them:
 
 ![Agent scorecard](images/scorecard.png)
 
-*Caption: Shows the averages of response time, resolution time, CSAT Score, Fixed rate, escalated rate of each nine agents*
+*Caption: Shows the averages of response time, resolution time, CSAT Score, fixed rate, escalated rate of nine agents*
 
 ![Resolution time by agent and priority](images/priority_heatmap.png)
 
-*Caption: Shows the average resolution time per priority of each nine agents*
+*Caption: Shows the average resolution time per priority of nine agents*
 
 ![Channel mix by agent](images/channel_mix.png)
 
@@ -134,7 +134,7 @@ Steps in the order I did them:
 
 ![channel_category_mix](images/channel_category_mix.png)
 
-*Caption: Shows the average resolution time of each categories in differen channel type*
+*Caption: Shows the average resolution time of each categories in different channel type*
 
 ![Dashboard](images/dashboard.png)
 
