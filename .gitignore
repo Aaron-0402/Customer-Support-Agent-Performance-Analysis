@@ -1,0 +1,15 @@
+# Private keys and certificates: never upload these
+*.pem
+*-key.pem
+
+# MySQL configuration and passwords
+my.ini
+*.cnf
+
+# Tableau extracts and caches
+*.hyper
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+~$*
