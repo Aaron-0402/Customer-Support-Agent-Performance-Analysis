@@ -121,18 +121,23 @@ Steps in the order I did them:
 7. **Dashboard:** KPI cards and charts in Tableau.
 
 ![Agent scorecard](images/scorecard.png)
+
 *Caption: Shows the averages of response time, resolution time, CSAT Score, Fixed rate, escalated rate of each nine agents*
 
 ![Resolution time by agent and priority](images/priority_heatmap.png)
+
 *Caption: Shows the average resolution time per priority of each nine agents*
 
 ![Channel mix by agent](images/channel_mix.png)
+
 *Caption: Shows the percentage of shares of each agents in different channels*
 
 ![channel_category_mix](images/channel_category_mix.png)
+
 *Caption: Shows the average resolution time of each categories in differen channel type*
 
 ![Dashboard](images/dashboard.png)
+
 *Caption: Shows the different charts and KPIs *
 
 
