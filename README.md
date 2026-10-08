@@ -291,16 +291,5 @@ Colors: red marks the highest escalation rate (the watch-list number). On the pr
 
 ---
 
-## Repository structure (suggested)
 
-```
-├── README.md
-├── sql/      # numbered .sql files: cleaning, scorecard, fairness checks, mix, KPI check
-├── images/   # dashboard.png, scorecard.png, priority_heatmap.png, channel_mix.png
-├── docs/     # Final_Project_Documentation.pdf, Dashboard_Guide.pdf, KPI_Guide.pdf
-└── data/     # optional: only if the dataset's license allows sharing
-```
-
----
-
-**Author:** Aaron Briones · [LinkedIn](http://www.linkedin.com/in/aaron-briones) 
+**Author:** Aaron Briones · [LinkedIn](http://www.linkedin.com/in/aaron-briones) · [Facebook](https://www.facebook.com/aaron.briones.5454/)
