@@ -242,7 +242,7 @@ ORDER BY avg_resolution_time DESC;
 
 ![Dashboard](images/dashboard.png)
 
-**Tableau Public link:** [https://public.tableau.com/views/SupportAgentPerformanceDashboard/SupportAgentPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+**Tableau Public link:** https://public.tableau.com/views/SupportAgentPerformanceDashboard/SupportAgentPerformanceDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 | Row | What is there |
 |---|---|
