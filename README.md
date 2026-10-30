@@ -286,7 +286,7 @@ Colors: red marks the highest escalation rate (the watch-list number). On the pr
 2. **Judge agents on a profile, not a single rank:** fixed rate, speed, and CSAT together.
 3. **Use the escalation rate as a prompt to review tickets,** not as a verdict, because the groups are small.
 4. **Fix the data capture:** record CSAT for escalated tickets and define what resolution time means for them.
-5. **Every agents should have fair distibution of tickets.
+5. **Every agents should have fair distibution of tickets.**
 
 
 ---
