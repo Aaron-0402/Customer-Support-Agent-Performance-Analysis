@@ -23,7 +23,7 @@ A customer support team at a multi-product SaaS company handles tickets across s
 
 | Item | Detail |
 |---|---|
-| Source | [TODO: dataset name and link] |
+| Source | Customer Support Tickets Dataset |Link: https://www.kaggle.com/datasets/kaiwalyaatulraut/customer-support-tickets-dataset/data?select=support_tickets_kaggle.csv|
 | Description | Simulated customer support system for a multi-product SaaS company: 7 channels, tickets from creation to resolution |
 | File | `Customer_Support_Datasets.csv` |
 | Size after cleaning | 1,924 rows × 23 columns, one row per ticket (the source describes 2,000) |
