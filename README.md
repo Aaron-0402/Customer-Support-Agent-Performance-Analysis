@@ -1,6 +1,6 @@
 # Support Agent Performance Analysis — MySQL and Tableau
 
-**One-line summary:** Ranking support agents by overall resolution time is misleading: in this simulated dataset, ticket priority mix accounts for most of the gap between the fastest and slowest agent (†), while channel mix accounts for almost none.
+**One-line summary:** Ranking support agents by overall resolution time is misleading: in this simulated dataset, ticket priority mix accounts for most of the gap between the fastest and slowest agent, while channel mix accounts for almost none.
 
 <sub> Rough checks calculated outside MySQL with a quick script. Treat them as indicative, not as statistical tests.</sub>
 
